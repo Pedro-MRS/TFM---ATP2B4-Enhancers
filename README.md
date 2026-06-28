@@ -35,21 +35,29 @@ El proyecto está organizado de la siguiente manera:
   * `analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
   * `pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
 * `archivos/`: Carpeta destinada a almacenar los datos de entrada locales (ej. archivos `.bed`, `.samples`).
-* `resultados/`: Carpeta autogenerada donde se guardarán los reportes, tablas de *outliers* y gráficos resultantes.
+  * `filtrado/`: Carpeta donde se guardan los archivos generados para el filtrado de variantes de los enhancers, tablas de *outliers* y gráficos resultantes.
+  * `PCAdapt/`: Carpeta donde se guardan los archivos generados por PCAdapt con los resultados de los outliers obtenidos.
+  * `iHS/`: Carpeta donde se guardan los archivos generados por iHS con los resultados obtenidos para el análisis de seleccion positiva.
 
 ---
 
-## 🚀 Guía de Uso (Instrucciones de Ejecución)
+## Guía de Uso (Instrucciones de Ejecución)
 
 Sigue estos pasos en tu terminal para replicar el análisis completo del TFM:
 
 ### 1. Clonar el repositorio y preparar el entorno
 ```bash
-git clone [https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers](https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers)
+git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers.git)
 cd TFM-ATP2B4-Enhancers
-mkdir -p archivos resultados
-git clone [https://github.com/tu_usuario/TFM-ATP2B4-Genomics.git](https://github.com/tu_usuario/TFM-ATP2B4-Genomics.git)
 
+### 2. Ejecutar el script del filtrado de variantes
+```bash
+git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/filtrado_variantes_enhancers_ATP2B4.sh)
 
-cd TFM-ATP2B4-Genomics
-mkdir -p archivos resultados
+### 3. Ejecugtar el script de PCAdapt
+```bash
+git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/pcadapt_variantes_enhancers.R)
+
+### 4. Ejecutar el script de iHS
+```bash
+git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/analisis_iHS_sierra_leona.sh)
