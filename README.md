@@ -35,7 +35,7 @@ El proyecto está organizado de la siguiente manera:
   * `analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
   * `pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
 * `archivos/`: Carpeta destinada a almacenar los datos de entrada locales (ej. archivos `.bed`, `.samples`).
-  * `filtrado/`: Carpeta donde se guardan los archivos generados para el filtrado de variantes de los enhancers, tablas de *outliers* y gráficos resultantes.
+  * `filtrado/`: Carpeta donde se guardan los archivos generados en el filtrado de variantes de los enhancers para cada poblacion y uno paea ambas poblaciones.
   * `PCAdapt/`: Carpeta donde se guardan los archivos generados por PCAdapt con los resultados de los outliers obtenidos.
   * `iHS/`: Carpeta donde se guardan los archivos generados por iHS con los resultados obtenidos para el análisis de seleccion positiva.
 
@@ -56,7 +56,7 @@ sh Pipelines/filtrado_variantes_enhancers_ATP2B4.sh
 ```
 
 ### 3. Ejecutar el script de PCAdapt
-```bash
+```r
 Rscript Pipelines/pcadapt_variantes_enhancers.R
 ```
 
