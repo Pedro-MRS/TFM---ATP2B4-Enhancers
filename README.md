@@ -47,7 +47,6 @@ Sigue estos pasos en tu terminal para replicar el análisis completo del TFM:
 ### 1. Clonar el repositorio y preparar el entorno.
 ```bash
 git clone https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers.git
-cd TFM-ATP2B4-Enhancers
 ```
 
 ### 2. Ejecutar el script del filtrado de variantes
