@@ -1,0 +1,23 @@
+selscan --ihs --vcf ATP2B4_enhancers_MSL_phased.vcf.gz --map ATP2B4_enhancers.map --out ATP2B4_enhancers_MSL_iHS 
+v1.2.0
+Calculating  iHS.
+Input filename: ATP2B4_enhancers_MSL_phased.vcf.gz
+Map filename: ATP2B4_enhancers.map
+Output file: ATP2B4_enhancers_MSL_iHS.ihs.out
+Threads: 1
+Scale parameter: 20000
+Max gap parameter: 200000
+EHH cutoff value: 0.05
+Alt flag set: no
+--skip-low-freq set. Removing all variants < 0.05.
+Removed 4 low frequency variants.
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203650487
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203653489
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203673796
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203673925
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203674140
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203674177
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203675659
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203682696
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203682799
+WARNING: Reached chromosome edge before EHH decayed below 0.05. Skipping calculation at chr1:203682912
