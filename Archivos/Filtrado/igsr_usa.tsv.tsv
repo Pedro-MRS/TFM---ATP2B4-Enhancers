@@ -1,0 +1,185 @@
+Sample name	Sex	Biosample ID	Population code	Population name	Superpopulation code	Superpopulation name	Population elastic ID	Data collections
+NA06984	M	SAME124763	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA06985	F	SAME124762	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA06986	M	SAME124764	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA06989	F	SAME124760	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA06991	F	SAME124936	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA06993	M	SAME124934	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA06994	M	SAME124931	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA06995	M	SAME123994	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA06997	F	SAME124930	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07000	F	SAME124963	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07014	F	SAME125162	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA07019	F	SAME125152	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA07022	M	SAME125336	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07029	M	SAME125338	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07031	F	SAME122860	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07034	M	SAME122863	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07037	F	SAME122862	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07045	F	SAME124187	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07048	M	SAME124188	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07051	M	SAME124378	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07055	F	SAME124767	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07056	F	SAME124375	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07340	F	SAME123573	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes phase 3 release
+NA07345	F	SAME123570	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07346	F	SAME123571	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07347	M	SAME123572	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07348	F	SAME123567	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA07349	M	SAME123568	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA07357	M	SAME123412	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA07435	M	SAME124342	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10830	M	SAME124548	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10831	F	SAME124549	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10835	M	SAME124547	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10836	F	SAME124545	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10837	M	SAME124546	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10838	M	SAME124550	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10839	F	SAME124551	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10840	F	SAME124756	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10842	M	SAME124755	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10843	F	SAME124754	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10845	M	SAME124759	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10846	M	SAME124758	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10847	F	SAME124757	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA10850	F	SAME124929	CEU	CEPH	EUR	European Ancestry	CEU	1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10851	M	SAME125317	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA10852	F	SAME125320	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10853	M	SAME124932	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes phase 3 release
+NA10854	F	SAME124933	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10855	F	SAME125331	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10856	M	SAME124935	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10857	M	SAME125332	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10859	F	SAME124937	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10860	M	SAME125131	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10861	F	SAME125130	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA10863	F	SAME125132	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10864	F	SAME125129	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA10865	M	SAME125128	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA11829	M	SAME124761	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11830	F	SAME124553	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11831	M	SAME124552	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11832	F	SAME124554	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11839	M	SAME124555	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA11840	F	SAME125139	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11843	M	SAME125140	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11881	M	SAME123209	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11882	F	SAME123210	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA11891	M	SAME123046	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA11892	F	SAME123045	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11893	M	SAME123044	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11894	F	SAME123043	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11917	M	SAME122838	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA11918	F	SAME123135	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11919	M	SAME122834	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA11920	F	SAME124901	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11930	M	SAME125095	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11931	F	SAME125096	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11932	M	SAME125097	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA11933	F	SAME125098	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA11992	M	SAME123964	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11993	F	SAME123965	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11994	M	SAME123967	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA11995	F	SAME123968	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12003	M	SAME125142	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12004	F	SAME125144	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12005	M	SAME125143	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12006	F	SAME125145	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12043	M	SAME123214	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12044	F	SAME123212	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12045	M	SAME123211	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12046	F	SAME123213	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12056	M	SAME123414	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12057	F	SAME123415	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12058	F	SAME123416	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12144	M	SAME124156	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12145	F	SAME124157	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12146	M	SAME124158	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12154	M	SAME124959	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12155	M	SAME124955	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12156	F	SAME124952	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12234	F	SAME124003	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12239	F	SAME123999	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12248	M	SAME125372	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12249	F	SAME125371	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12264	M	SAME123087	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12272	M	SAME123231	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12273	F	SAME123256	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12274	M	SAME125249	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12275	F	SAME125263	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12282	M	SAME124640	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12283	F	SAME124639	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12286	M	SAME124642	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12287	F	SAME124641	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12329	F	SAME123531	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,Human Genome Structural Variation Consortium, Phase 3,1000 Genomes phase 3 release
+NA12335	M	SAME124097	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12336	F	SAME125068	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12340	M	SAME125157	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12341	F	SAME125158	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12342	M	SAME125155	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12343	F	SAME125156	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12344	M	SAME123946	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12347	M	SAME125316	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12348	F	SAME125163	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12375	M	SAME124589	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes phase 3 release
+NA12376	F	SAME123275	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12383	F	SAME124384	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12386	F	SAME124386	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12399	M	SAME124193	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12400	F	SAME123881	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12413	M	SAME124055	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12414	F	SAME124057	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12485	M	SAME125360	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12489	F	SAME125358	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12546	M	SAME124777	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12707	M	SAME124080	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12708	F	SAME124078	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes phase 3 release
+NA12716	M	SAME123912	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12717	F	SAME123911	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12718	F	SAME124454	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12739	M	SAME123529	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12740	F	SAME124822	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12748	M	SAME124827	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12749	F	SAME124828	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12750	M	SAME124646	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12751	F	SAME123515	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12752	M	SAME123518	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12753	F	SAME124647	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12760	M	SAME124465	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12761	F	SAME124466	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12762	M	SAME125109	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12763	F	SAME123872	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12766	M	SAME124471	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12767	F	SAME124472	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12775	M	SAME124257	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12776	F	SAME124256	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12777	M	SAME125252	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12778	F	SAME124249	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12801	M	SAME122827	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12802	F	SAME122828	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,1000 Genomes phase 3 release
+NA12812	M	SAME123023	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12813	F	SAME123024	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12814	M	SAME123021	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12815	F	SAME123022	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12817	M	SAME123020	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12818	F	SAME123025	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12827	M	SAME125077	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12828	F	SAME125076	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12829	M	SAME125075	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12830	F	SAME125289	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12832	F	SAME125290	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12842	M	SAME123542	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12843	F	SAME123541	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12864	M	SAME123191	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12865	F	SAME123190	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12872	M	SAME123387	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12873	F	SAME123388	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12874	M	SAME123389	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,MAGE RNA-seq,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12875	F	SAME123390	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1000 Genomes phase 3 release
+NA12877	M	SAME123391	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,Illumina Platinum pedigree,1000 Genomes phase 3 release
+NA12878	F	SAME123392	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,Human Genome Structural Variation Consortium, Phase 2,1KG_ONT_VIENNA,MAGE RNA-seq,Illumina Platinum pedigree,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12889	M	SAME123951	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,MAGE RNA-seq,Illumina Platinum pedigree,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12890	F	SAME124116	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,Illumina Platinum pedigree,1000 Genomes phase 3 release,1000 Genomes phase 1 release,Geuvadis
+NA12891	M	SAME124117	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,Illumina Platinum pedigree,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12892	F	SAME123181	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes on GRCh38,1000 Genomes 30x on GRCh38,1KG_ONT_VIENNA,Illumina Platinum pedigree,1000 Genomes phase 3 release,1000 Genomes phase 1 release
+NA12236	F	SAMEA6604124	CEU	CEPH	EUR	European Ancestry	CEU	1000 Genomes 30x on GRCh38
