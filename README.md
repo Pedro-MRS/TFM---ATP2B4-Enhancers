@@ -31,9 +31,9 @@ Para poder ejecutar los scripts de este repositorio de manera local, es necesari
 
 El proyecto está organizado de la siguiente manera:
 * `pipeline/`: Carpeta destinada a almacenar los diferentes scripts para el procesamiento de los datos.
-* `pipeline_procesamiento.sh`: Script principal en Bash que automatiza la descarga de datos desde *1000 Genomes*, control de calidad, filtrado por población, faseo con Beagle y análisis de selección con *selscan*.
-* `analisis_pcadapt.R`: Script en R que realiza el Análisis de Componentes Principales (PCA) y la detección de variantes *outliers* mediante la librería `pcadapt`.
-* `analisis_ihs_post.sh`: Script auxiliar para la extracción automatizada de los SNPs con mayores señales de selección.
+  * `filtrado_variantes_enhancers_ATP2B4.sh`: Descarga de datos, control de calidad con `vcftools` y separación por poblaciones.
+  * `analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
+  * `pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
 * `archivos/`: Carpeta destinada a almacenar los datos de entrada locales (ej. archivos `.bed`, `.samples`).
 * `resultados/`: Carpeta autogenerada donde se guardarán los reportes, tablas de *outliers* y gráficos resultantes.
 
@@ -49,5 +49,7 @@ git clone [https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers](https://github.c
 cd TFM-ATP2B4-Enhancers
 mkdir -p archivos resultados
 git clone [https://github.com/tu_usuario/TFM-ATP2B4-Genomics.git](https://github.com/tu_usuario/TFM-ATP2B4-Genomics.git)
+
+
 cd TFM-ATP2B4-Genomics
 mkdir -p archivos resultados
