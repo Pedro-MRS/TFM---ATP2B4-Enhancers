@@ -31,7 +31,8 @@ vcftools \
   --out ATP2B4_enhancers_filtrado
 
 echo "=== [3/6] Filtrado por Población: Sierra Leona (MSL) ==="
-# Extracción de IDs de muestra desde el metadato geográfico
+# Extracción de IDs de muestra desde el metadato geográfico obtenidos de 1000 Genomes Project mediante la descarga de los archivos igsr_mls.tsv y igsr_usa.tsv con los identificadores de las muestras para cada 
+población
 tail -n +2 igsr_msl.tsv.tsv | cut -f1 > MSL.samples
 bcftools query -l ATP2B4_enhancers_filtrado.recode.vcf > vcf_samples_ATP2B4.txt
 grep -Fwf vcf_samples_ATP2B4.txt MSL.samples > MSL_present_ATP2B4.samples
