@@ -45,6 +45,8 @@ bcftools view \
   ATP2B4_enhancers_filtrado.recode.vcf
 
 echo "=== [4/6] Filtrado por Población: USA ==="
+tail -n +2 igsr_usa.tsv.tsv | cut -f1 > MSL.samples
+bcftools query -l ATP2B4_enhancers_filtrado.recode.vcf > vcf_samples_ATP2B4.txt
 grep -Fwf vcf_samples_ATP2B4.txt USA.samples > USA_present_ATP2B4.samples
 
 # Generación del VCF exclusivo para la población USA
