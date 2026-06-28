@@ -40,24 +40,27 @@ El proyecto está organizado de la siguiente manera:
   * `iHS/`: Carpeta donde se guardan los archivos generados por iHS con los resultados obtenidos para el análisis de seleccion positiva.
 
 ---
-
 ## Guía de Uso (Instrucciones de Ejecución)
 
 Sigue estos pasos en tu terminal para replicar el análisis completo del TFM:
 
-### 1. Clonar el repositorio y preparar el entorno
+### 1. Clonar el repositorio y preparar el entorno.
 ```bash
-git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers.git)
+git clone https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers.git
 cd TFM-ATP2B4-Enhancers
+```
 
 ### 2. Ejecutar el script del filtrado de variantes
 ```bash
-git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/filtrado_variantes_enhancers_ATP2B4.sh)
+sh Pipelines/filtrado_variantes_enhancers_ATP2B4.sh
+```
 
-### 3. Ejecugtar el script de PCAdapt
+### 3. Ejecutar el script de PCAdapt
 ```bash
-git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/pcadapt_variantes_enhancers.R)
+Rscript Pipelines/pcadapt_variantes_enhancers.R
+```
 
 ### 4. Ejecutar el script de iHS
 ```bash
-git clone (https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers/blob/main/Pipelines/analisis_iHS_sierra_leona.sh)
+sh Pipelines/analisis_iHS_sierra_leona.sh
+```
