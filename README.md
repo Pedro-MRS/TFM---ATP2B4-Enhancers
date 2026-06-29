@@ -1,18 +1,17 @@
-# Análisis de Variantes Genómicas en enhacers y Selección Natural en el Gen ATP2B4
+# Ejemplo Análisis de Variantes Genómicas y Selección Natural en enhancers del Gen ATP2B4
 
 ## 📝 Descripción
 Este repositorio contiene el pipeline bioinformático desarrollado para el **Trabajo Fin de Máster (TFM)** titulado *"Detección de variantes adaptativas en enhancers eritroides que modulan la expresión de la Basigina, 
 ATP2B4 y PIEZO1 en poblaciones expuestas a la malaria."*. 
 
-El objetivo principal de este proyecto es identificar variantes genómicas en las regiones *enhancers* de los genes **Basigina**,**ATP2B4**, **PIEZO1**, analizar el impacto biológico de las variantes identificadas, y 
-evaluar las señales de selección natural entre varias poblaciones con mayor y menor exposición a la malaria.
+El objetivo principal de este proyecto es identificar variantes genómicas en las regiones *enhancers* de los genes **Basigina**,**ATP2B4**, **PIEZO1**, analizar el impacto biológico de las variantes identificadas, y evaluar las señales de selección natural entre varias poblaciones con mayor y menor exposición a la malaria.
 
 En este repositorio se propone un ejemplo para la identificación de variantes en el gen **ATP2B4** en dos poblaciones específicas: **Sierra Leona (MSL)** y **Estados Unidos (USA)**, utilizando datos de alta cobertura 
 del *1000 Genomes Project*.
 
 ---
 
-## 🛠️ Requisitos del Sistema y Dependencias
+## 🛠️ Herramientas bioinformáticas necesarias
 
 Para poder ejecutar los scripts de este repositorio de manera local, es necesario contar con las siguientes herramientas instaladas:
 
@@ -31,7 +30,7 @@ Para poder ejecutar los scripts de este repositorio de manera local, es necesari
 ## 📂 Estructura del Repositorio
 
 El proyecto está organizado de la siguiente manera:
-* `pipeline/`: Carpeta destinada a almacenar los diferentes scripts para el procesamiento de los datos.
+* `pipelines/`: Carpeta destinada a almacenar los diferentes scripts para el procesamiento de los datos.
   * `filtrado_variantes_enhancers_ATP2B4.sh`: Descarga de datos, control de calidad con `vcftools` y separación por poblaciones.
   * `analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
   * `pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
@@ -41,7 +40,7 @@ El proyecto está organizado de la siguiente manera:
   * `iHS/`: Carpeta donde se guardan los archivos generados por iHS con los resultados obtenidos para el análisis de seleccion positiva.
 
 ---
-## Guía de Uso (Instrucciones de Ejecución)
+## 🚀 Guía de Uso (Instrucciones de Ejecución)
 
 Sigue estos pasos en tu terminal para replicar el análisis completo del TFM:
 
