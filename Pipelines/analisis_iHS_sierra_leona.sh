@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # ==============================================================================
 # TFM: Cálculo y Normalización de iHS en Sierra Leona (MSL)
