@@ -58,19 +58,19 @@ bcftools view \
   ATP2B4_enhancers_filtrado.recode.vcf
 
 
-# 2. PROCESAMIENTO Y COMBINACION DE VCFS (MSL & USA) PARA UTILIZARLO EN PCADAPT
+# 2. COMPRESION DE LOS ARCHIVOS VCF DE SIERRA LEONA Y USA
 # -------------------------------------------------------------------------------
 echo "Comprimiendo archivos VCF..."
 bgzip -c ATP2B4_enhancers_MSL.vcf > ATP2B4_enhancers_MSL.vcf.gz
 bgzip -c ATP2B4_enhancers_USA.vcf > ATP2B4_enhancers_USA.vcf.gz
 
-# 2. INDEXAR LOS ARCHIVOS COMPRIMIDOS
+# 3. INDEXAR LOS ARCHIVOS COMPRIMIDOS
 # -------------------------------------------------------------------------------
 echo "Indexando archivos VCF comprimidos..."
 bcftools index ATP2B4_enhancers_MSL.vcf.gz
 bcftools index ATP2B4_enhancers_USA.vcf.gz
 
-# 3. FUSIONAR AMBOS ARCHIVOS EN UN SOLO VCF CONJUNTO
+# 4. COMBINACION DE VCFS (MSL & USA) PARA UTILIZARLO EN PCADAPT
 # -------------------------------------------------------------------------------
 echo "Fusionando poblaciones (Sierra Leona + USA)..."
 bcftools merge \
@@ -79,7 +79,7 @@ bcftools merge \
   ATP2B4_enhancers_USA.vcf.gz \
   ATP2B4_enhancers_MSL.vcf.gz
 
-# 4. CONVERTIR EL ARCHIVO CONJUNTO A FORMATO PLINK (.bed/.bim/.fam)
+# 5. CONVERTIR EL ARCHIVO CONJUNTO A FORMATO PLINK
 # -------------------------------------------------------------------------------
 echo "Convirtiendo VCF final a formato binario de PLINK..."
 plink --vcf ATP2B4_enhancers_USA_MSL.vcf \
