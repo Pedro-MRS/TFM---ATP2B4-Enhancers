@@ -6,6 +6,7 @@ ATP2B4 y PIEZO1 en poblaciones expuestas a la malaria."*.
 
 El objetivo principal de este proyecto es identificar variantes genómicas en las regiones *enhancers* de los genes **Basigina**,**ATP2B4**, **PIEZO1**, analizar el impacto biológico de las variantes identificadas, y 
 evaluar las señales de selección natural entre varias poblaciones con mayor y menor exposición a la malaria.
+
 En este repositorio se propone un ejemplo para la identificación de variantes en el gen **ATP2B4** en dos poblaciones específicas: **Sierra Leona (MSL)** y **Estados Unidos (USA)**, utilizando datos de alta cobertura 
 del *1000 Genomes Project*.
 
