@@ -30,10 +30,10 @@ Para poder ejecutar los scripts de este repositorio de manera local, es necesari
 ## 📂 Estructura del Repositorio
 
 El proyecto está organizado de la siguiente manera:
-* `pipelines/`: Carpeta destinada a almacenar los diferentes scripts para el procesamiento de los datos.
-  * `filtrado_variantes_enhancers_ATP2B4.sh`: Descarga de datos, control de calidad con `vcftools` y separación por poblaciones.
-  * `analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
-  * `pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
+* `pipeline/`: Carpeta destinada a almacenar los diferentes scripts para el procesamiento de los datos.
+  * `1_filtrado_variantes_enhancers_ATP2B4.sh`: Descarga de datos, control de calidad con `vcftools` y separación por poblaciones.
+  * `2_pcadapt_variantes_enhancers.R`: Análisis de componentes principales (PCA) y outliers.
+  * `3_analisis_iHS_sierra_leona.sh`: Faseo con Beagle y análisis de selección con `selscan` y `norm` de la población de Sierra Leona.
 * `archivos/`: Carpeta destinada a almacenar los datos de entrada locales (ej. archivos `.bed`, `.samples`).
   * `filtrado/`: Carpeta donde se guardan los archivos generados en el filtrado de variantes de los enhancers para cada poblacion y uno paea ambas poblaciones.
   * `PCAdapt/`: Carpeta donde se guardan los archivos generados por PCAdapt con los resultados de los outliers obtenidos.
@@ -51,15 +51,15 @@ git clone https://github.com/Pedro-MRS/TFM---ATP2B4-Enhancers.git
 
 ### 2. Ejecutar el script del filtrado de variantes
 ```bash
-sh Pipelines/filtrado_variantes_enhancers_ATP2B4.sh
+sh Pipeline/1_filtrado_variantes_enhancers_ATP2B4.sh
 ```
 
 ### 3. Ejecutar el script de PCAdapt
 ```r
-Rscript Pipelines/pcadapt_variantes_enhancers.R
+Rscript Pipeline/2_pcadapt_variantes_enhancers.R
 ```
 
 ### 4. Ejecutar el script de iHS
 ```bash
-sh Pipelines/analisis_iHS_sierra_leona.sh
+sh Pipeline/3_analisis_iHS_sierra_leona.sh
 ```
